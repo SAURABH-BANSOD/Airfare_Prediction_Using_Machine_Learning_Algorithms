@@ -1,7 +1,8 @@
 # Airfare_Prediction_Using_Machine_Learning_Algorithms
 
-Objective:
-	  The purpose of this project is to study how airline ticket price changes over time, extract the factors that influence this fluctuation and develop a model which could help customers to book ticket at minimum price. Regression & classification are two approaches used for this purpose. The study revealed that mining historical airfare data and modelling using machine learning algorithms, such as Support Vector Machines (SVM), Extra Tree Regressor, etc., can help to predict price trend and save consumers’ money.
+OBJECTIVE:
+
+The purpose of this project is to study how airline ticket price changes over time, extract the factors that influence this fluctuation and develop a model which could help customers to book ticket at minimum price. Regression & classification are two approaches used for this purpose. The study revealed that mining historical airfare data and modelling using machine learning algorithms, such as Support Vector Machines (SVM), Extra Tree Regressor, etc., can help to predict price trend and save consumers’ money.
 
 DATA COLLECTION:
 
